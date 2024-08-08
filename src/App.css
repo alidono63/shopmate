@@ -1,0 +1,58 @@
+.app{
+  margin-left: 25%;
+}
+.imag{
+  width: 50px;
+  height: 50px;
+}
+.input{
+  margin-left: 25%;
+  width: 500px;
+  height: 50px;
+}
+.ptag{
+  font-size: xx-large;
+}
+.button{
+  height: 60px;
+  background-color: #52B69a;
+  width: 70px;
+  border-radius: 10%;
+}
+
+
+.name{
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 10px;
+  border-color: black;
+  background-color: antiquewhite;
+  font-size: 3rem;
+}
+.ptag{
+ margin: 10%;
+  border-color: black;
+}
+.blogpreview{
+  box-sizing: 10px;
+  background-color: aqua;
+  border: black;
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 10px;
+  border-style: solid;
+  margin-top: 3px;
+  box-shadow: inset;
+}
+.heythere{
+  box-sizing: 10px;
+  background-color: aqua;
+  border: black;
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 10px;
+  border-style: solid;
+  margin-top: 3px;
+  box-shadow: inset;
+  opacity: 50%;
+}
